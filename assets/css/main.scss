@@ -57,3 +57,19 @@
 .page__footer {
   position: relative !important;
 }
+
+/* Disable sticky footer layout mechanism */
+html, body {
+  height: auto !important;
+}
+
+.page {
+  min-height: auto !important;
+}
+
+/* Make footer behave like normal block */
+.page__footer {
+  position: relative !important;
+  bottom: auto !important;
+  margin-top: 2em;
+}
