@@ -42,7 +42,8 @@
     "vendor/font-awesome/brands"
 ;
 
-.page__footer-follow,
-.page__footer-copyright {
-  display: none !important;
+.page__footer {
+  text-align: center;
+  font-size: 0.85em;
+  color: #999;
 }
