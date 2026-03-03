@@ -1,8 +1,8 @@
 ---
-title: "Performance Management in Public Sectors"
+title: "Performance Management of Public Sectors"
 collection: teaching
 type: "Master’s course"
-permalink: /teaching/Performance Management in Public Sectors
+permalink: /teaching/Performance Management of Public Sectors
 venue: "UIBE, School of Government"
 date: 
 location: "Beijing, China"
