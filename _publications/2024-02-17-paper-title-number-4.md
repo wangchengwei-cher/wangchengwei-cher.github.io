@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 4"
+title: "Digital transformation of citizens’ evaluations of public service delivery"
 collection: publications
-category: conferences
+category: manuscript
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
