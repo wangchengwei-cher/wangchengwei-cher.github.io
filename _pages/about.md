@@ -14,11 +14,11 @@ You can download my CV here:
 Chengwei Wang's Curriculum Vitae (PDF)
 </a>
 
+
 ### A moment from 2024  
 
 Landscapes change quietly.  
 So does time.  
-
 Before the tides rewrite the shore,  
 do what matters.
 
