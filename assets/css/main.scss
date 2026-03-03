@@ -42,4 +42,16 @@
     "vendor/font-awesome/brands"
 ;
 
-.page__footer { display: none !important; }
+/* Hide footer across common Jekyll themes */
+.page__footer,
+.page__footer-follow,
+.page__footer-copyright,
+.site-footer,
+.footer,
+#footer,
+footer {
+  display: none !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
