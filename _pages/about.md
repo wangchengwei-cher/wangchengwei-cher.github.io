@@ -22,10 +22,8 @@ So does time.
 Before the tides rewrite the shore,  
 do what matters.
 
-<hr style="border:none;border-top:1px solid #eee;margin:2.5em 0;">
-<p align="center">
+
   <img src="/images/Iceland.png" width="820">
-</p>
-<p align="center" style="margin-top:1em;color:#777;font-size:0.9em;">
+
   Reynisfjara, Iceland · 2024
 </p>
