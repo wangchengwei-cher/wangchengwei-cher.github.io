@@ -9,7 +9,7 @@ redirect_from:
 
 I am Chengwei Wang (王程伟), and you can also call me Cher. I am an Assistant Professor from [University of International Business and Economics](https://english.uibe.edu.cn/). I received my Joint Ph.D. degrees from [Renmin University of China](https://en.ruc.edu.cn/) and [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/cwang384/). My research lies in public administration and public policy, with a focus on performance feedback, strategic behavior, and governance under pressure-driven systems.
 
-You can find my CV here: [Chengwei Wang's Curriculum Vitae](https://github.com/wangchengwei-cher/wangchengwei-cher.github.io/blob/master/assets/CV%20Eng_Chengwei%20Wang_20260303.pdf)
+You can find my CV here: [Chengwei Wang's Curriculum Vitae](files/CV Eng_Chengwei Wang_20260303.pdf)
 
 A data-driven personal website
 ======
