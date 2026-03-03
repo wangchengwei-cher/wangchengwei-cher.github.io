@@ -42,3 +42,22 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Keep footer bar, show only last-updated line */
+.page__footer .page__footer-follow,
+.page__footer .page__footer-copyright a,
+.page__footer .page__footer-copyright .social-icons,
+.page__footer .page__footer-copyright .footer__menu,
+.page__footer .page__footer-copyright .footer__menu-item,
+.page__footer .page__footer-copyright .footer__menu-item a {
+  display: none !important;
+}
+
+/* If “Sitemap” is a link inside footer, hide it */
+.page__footer a[href*="sitemap"] {
+  display: none !important;
+}
+
+/* Optional: center the remaining text */
+.page__footer {
+  text-align: center;
+}
