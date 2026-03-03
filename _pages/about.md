@@ -25,5 +25,6 @@ do what matters.
 
   <img src="/images/Iceland.png" width="820">
 
+<p align="center" style="margin-top:1em;color:#777;font-size:0.9em;">
   Reynisfjara, Iceland · 2024
 </p>
