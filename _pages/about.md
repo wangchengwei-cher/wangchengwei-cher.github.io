@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Chengwei Wang (王程伟), and you can also call me Cher. I am an Assistant Professor from [University of International Business and Economics](https://english.uibe.edu.cn/). I received my Joint Ph.D. degrees from [Renmin University of China](https://en.ruc.edu.cn/) and [City University of Hong Kong](https://scholars.cityu.edu.hk/en/persons/cwang384/). My research lies in public administration and public policy, with a focus on performance feedback, strategic behavior, and governance under pressure-driven systems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+You can find my CV here: [Chengwei Wang's Curriculum Vitae](https://github.com/academicpages/academicpages.github.io)
 
 A data-driven personal website
 ======
