@@ -4,7 +4,7 @@ collection: teaching
 type: "Master’s course"
 permalink: /teaching/Performance Management of Public Sectors
 venue: "UIBE, School of Government"
-date: 
+date:  2025-03-01
 location: "Beijing, China"
 ---
 
