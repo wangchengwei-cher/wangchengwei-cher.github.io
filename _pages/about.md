@@ -14,7 +14,11 @@ You can download my CV here:
 Chengwei Wang's Curriculum Vitae (PDF)
 </a>
 
-**A favorite moment recently captured in Iceland.**
 
-Example: editing a Markdown file for a talk
+
+A favorite moment recently captured in 2024.
+Reynisfjara, Iceland.
+Landscapes change quietly. So does time.
+Before the tides rewrite the shore, do what matters.
+
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
