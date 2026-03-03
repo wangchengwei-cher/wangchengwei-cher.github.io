@@ -14,9 +14,6 @@ You can download my CV here:
 Chengwei Wang's Curriculum Vitae (PDF)
 </a>
 
-
-
-
 ### A moment from 2024  
 
 Landscapes change quietly.  
@@ -25,5 +22,10 @@ So does time.
 Before the tides rewrite the shore,  
 do what matters.
 
-![Editing a Markdown file for a talk](/images/Iceland.png)
-<p align="center"><em>Reynisfjara, Iceland · 2024</em></p>
+<hr style="border:none;border-top:1px solid #eee;margin:2.5em 0;">
+<p align="center">
+  <img src="/images/Iceland.png" width="820">
+</p>
+<p align="center" style="margin-top:1em;color:#777;font-size:0.9em;">
+  Reynisfjara, Iceland · 2024
+</p>
