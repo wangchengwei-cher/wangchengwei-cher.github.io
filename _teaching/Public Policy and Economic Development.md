@@ -4,7 +4,7 @@ collection: teaching
 type: "PhD Seminar"
 permalink: /teaching/Public Policy and Economic Development
 venue: "UIBE, School of Government"
-#date: 2014-01-01
+date:
 location: "Beijing, China"
 ---
 
