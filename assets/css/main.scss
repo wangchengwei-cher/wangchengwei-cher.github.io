@@ -41,3 +41,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Hide default footer content */
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
+
+/* Style our custom footer line */
+.footer-last-updated {
+  text-align: center;
+  font-size: 0.85em;
+  color: #bbb;
+  padding: 1em 0;
+}
