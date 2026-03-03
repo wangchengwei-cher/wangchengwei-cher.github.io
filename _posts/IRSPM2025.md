@@ -9,5 +9,8 @@ tags:
 ---
 
 My first trip to Bologna, such a beautiful city.
+---
 
-[Download Presentation Slides (PDF) here!](/files/IRSPM Presentation_20250407.pdf)
+### Presentation Materials
+
+[📄 Download Slides (PDF)](/files/IRSPM2025_slides.pdf)
