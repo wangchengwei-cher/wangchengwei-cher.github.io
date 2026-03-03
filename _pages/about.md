@@ -19,13 +19,11 @@ Chengwei Wang's Curriculum Vitae (PDF)
 
 ### A moment from 2024  
 
-*Reynisfjara, Iceland*
-
 Landscapes change quietly.  
 So does time.  
 
 Before the tides rewrite the shore,  
 do what matters.
 
-
 ![Editing a Markdown file for a talk](/images/Iceland.png)
+<p align="center"><em>Reynisfjara, Iceland · 2024</em></p>
