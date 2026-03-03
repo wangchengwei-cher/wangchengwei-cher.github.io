@@ -16,9 +16,14 @@ Chengwei Wang's Curriculum Vitae (PDF)
 
 
 
+
 A favorite moment recently captured in 2024.
+
 Reynisfjara, Iceland.
+
 Landscapes change quietly. So does time.
+
 Before the tides rewrite the shore, do what matters.
+
 
 ![Editing a Markdown file for a talk](/images/Iceland.png)
