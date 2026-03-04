@@ -1,5 +1,5 @@
 ---
-title: ' IRSPM 2023 Bubapest'
+title: ' IRSPM 2023 in Bubapest'
 date: 2023-04-04
 permalink: /posts/2023-04-04-irspm-2025-Budapest
 tags:
