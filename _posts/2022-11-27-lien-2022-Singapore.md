@@ -16,11 +16,11 @@ Ironically, I got COVID for the first time during this trip.
 
 I received so much encouragement during my presentation, and this paper was finally accepted by Public Administration.
 
-  <img src="/images/Bologna.png" width="820">
+  <img src="/images/Sentosa.png" width="820">
 
 <p align="center" style="margin-top:1em;color:#777;font-size:0.9em;">
-  Sanctuary of the Madonna di San Luca · 2025
+  Sentosa · 2022
 </p>
 
 Here is the Presentation Materials:
-[📄 Download Slides (PDF)](/files/IRSPM2025.pdf)
+[📄 Download Slides (PDF)](/files/Lien2022.pdf)
